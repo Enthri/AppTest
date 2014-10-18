@@ -9,5 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <gap:plugin name="org.apache.cordova.vibration" version="0.3.11" />
+    <feature name="Notification">
+	    <param name="ios-package" value="CDVNotification" />
+	</feature>
 </widget>
