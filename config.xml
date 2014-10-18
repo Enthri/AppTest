@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.troi.AppTest" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-	<gap:plugin name="nl.x-services.plugins.flashlight" />
-	<gap:plugin name="org.apache.cordova.vibration" version="0.3.11" />
     <name>AppTest</name>
     <description>
         A test app for cordova
