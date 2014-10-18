@@ -45,5 +45,8 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+        
+        navigator.vibrate(3000);
+        window.plugin.notification.local.add({ message: 'Great app!' });
     }
 };
