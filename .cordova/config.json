@@ -1,7 +1,7 @@
 {
     "lib": {
         "www": {
-            "id": "com.toon.template",
+            "id": "com.toon.template2",
             "version": "3.6.0",
             "uri": "https://github.com/phonegap/phonegap-app-hello-world/archive/3.6.0.tar.gz"
         }
